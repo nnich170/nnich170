@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boranich</h1>
-<h3 align="center">I am vibe coder. 🚀</h3>
+<h3 align="center">I love solving business challenges using technology. 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nnich170&label=Profile%20views&color=0e75b6&style=flat" alt="nnich170" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sokunboranichdeth/](https://www.linkedin.com/in/sokunboranichdeth/)
 
-- ⚡ Fun fact **I love drinking coffee.**
+- ⚡ Fun fact **Vibe Coder ^^**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
